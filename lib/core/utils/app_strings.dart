@@ -1,0 +1,40 @@
+class AppStrings {
+  static String oranos = 'Oranos';
+  static String getStarted = 'Get Started';
+  static String donthaveAnAccount = 'Don’t have an account?';
+  static String signUp = 'SignUp';
+  static String abdalla = 'Abdalla';
+  static String okAbdallaWhatsYourLastname = 'Ok, Abdalla Whats Your Lastname?';
+  static String english = 'English';
+  static String salah = 'Salah';
+  static String recommendedExperts = 'Recommended Experts';
+  static String kareemAdel = 'Kareem Adel';
+  static String supplyChain = 'Supply Chain';
+  static String mernaAdel = 'Merna Adel';
+  static String onlineExperts = 'Online Experts';
+  static String lance = 'Lance';
+  static String niles = 'Niles';
+  static String samuel = 'Samuel';
+  static String hilary = 'Hilary';
+  static String experts = 'Experts';
+  static String translation = 'Translation';
+  static String immigration = 'Immigration';
+  static String hanson = 'Hanson';
+  static String mrAbdallaSalahWhatsyourTitle  = 'Mr Abdalla Salah, What\'s your Title? ';
+  static String oranobot = 'Oranobot';
+  static String next = 'Next';
+  static String informationTechnology = 'Information Technology';
+  static String humanResource = 'Human Resource';
+  static String businessResearch = 'Business Research';
+  static String sayDoneOr  = 'Say Done, Or Press Send to Apply';
+  static String typeSomething = 'Type something…';
+  static String security = 'Security';
+  static String frontEndDeveloper = 'Front-end Developer';
+  static String hiWhatsYouName  = 'Hi, Whats You Name Firstname?';
+  static String whatCategoriesYouWill  = 'What Categories you will need expert In?';
+  static String sayStartToGoToNext = 'Say Start To go to Next.';
+  static String iWillAlwaysBe = 'I will always be there to help and assist you.';
+  static String hiMyNameIs = 'Hi, My name is';
+  static String expertFromEveryPlanet = 'Expert From Every Planet';
+
+}
